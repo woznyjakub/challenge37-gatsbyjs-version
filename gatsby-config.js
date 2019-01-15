@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/challenge37-gatsbyjs-version',
   siteMetadata: {
     title: 'challenge37 - gatsby version',
     description:
